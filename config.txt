@@ -1,5 +1,5 @@
 {
 	"ip":Priyanshuyt12345.aternos.me",
-	"port": "64832",
-	"name": "gampa"
+	"port":"64832",
+	"name":"gampa"
 }
